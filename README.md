@@ -1,2 +1,1 @@
-# harmfulsearch_ban
-A Python-based content filtering tool using NLP to detect and block harmful search queries and posts.
+A Python-based tool that prevents users from searching or posting harmful content using Natural Language Processing (NLP). It detects banned keywords while allowing educational or preventive discussions
